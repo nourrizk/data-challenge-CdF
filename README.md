@@ -65,7 +65,10 @@ Z-normalizing the data before stacking it and feeding it to the Meta Learners
    - XGBoost as a Meta Learner
 
 ## Results 
-The table below displays the results of the various implemented methods, given by the Public Leaderboard of the submission platform
-<img src="./figs/public_leaderborad_results.png" alt="Public results table" width="400"/>
+The table below displays the results of the various implemented methods, given by the Public Leaderboard of the submission platform.
+<p align="center">
+  <img src="./figs/public_leaderborad_results.png" alt="Public results table"/>
+</p>
 
+We can see that the optimal methods (equivalently) are RSF, or the Meta Learner trained on COX-PH, RSF pair.
    
