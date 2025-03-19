@@ -18,7 +18,7 @@ root dir
   │           └── molecular_test.csv
   │
   ├── code
-  │     ├── notebook_risk_brandt.ipynb
+  │     ├── notebook_rizk_brandt.ipynb
   │     └── output
   │           ├── ... submission.csv
   │           └── spearman_corr_btw_submissions.ipynb
