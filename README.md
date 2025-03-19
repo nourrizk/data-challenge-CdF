@@ -4,6 +4,28 @@ Overall Survival Prediction for patients diagnosed with Myeloid Leukemia by \hre
 
 ### Team: Nour RIZK, Vivien BRANDT
 
+### Code Setup 
+```bash
+root dir
+  │
+  ├── data
+  │     ├── target_train.csv
+  │     ├── X_train
+  │     │     ├── clinical_train.csv
+  │     │     └── molecular_train.csv
+  │     └── X_test
+  │           ├── clinical_test.csv
+  │           └── molecular_test.csv
+  │
+  ├── code
+  │     ├── notebook_risk_brandt.ipynb
+  │     └── output
+  │           ├── ... submission.csv
+  │           └── spearman_corr_btw_submissions.ipynb
+  │
+  └── ...
+```
+
 ## Strategy :
 ### 1. Feature Engineering
    - Ratios (interactions) of the different cell counts (features collected from the clinical data csv) in the blood stream
