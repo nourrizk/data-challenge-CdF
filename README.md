@@ -1,6 +1,6 @@
 # Data Challenge : Leukemia Risk Prediction
 ### Selected Challenge
-Overall Survival Prediction for patients diagnosed with Myeloid Leukemia by [QRT](https://www.qube-rt.com/) in collaboration with the [Gustave Roussy institute] (https://www.gustaveroussy.fr/). This challenge was carried out as part of the course ["Génération de Données en IA par Transport et Débruitage"](https://www.college-de-france.fr/fr/agenda/cours/generation-de-donnees-en-ia-par-transport-et-debruitage) by Prof. Stéphane Mallat from the Collège de France.
+Overall Survival Prediction for patients diagnosed with Myeloid Leukemia by [QRT](https://www.qube-rt.com/) in collaboration with the [Gustave Roussy institute](https://www.gustaveroussy.fr/). This challenge was carried out as part of the course ["Génération de Données en IA par Transport et Débruitage"](https://www.college-de-france.fr/fr/agenda/cours/generation-de-donnees-en-ia-par-transport-et-debruitage) by Prof. Stéphane Mallat from the Collège de France.
 
 ### Team: Nour RIZK, Vivien BRANDT
 
